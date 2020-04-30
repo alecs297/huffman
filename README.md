@@ -1,2 +1,0 @@
-# huffman
-School project (french)
